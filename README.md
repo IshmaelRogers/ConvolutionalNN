@@ -1,11 +1,27 @@
 # Convolutional Neural Networks
 Contains code and an explanation of the theories and best practices for constructing Convolutional Neural Networks
+Object detection
 
 # Color
 
+Can be represented based on the amount of red, green and blue (RGB) pixels
+
+Or can be represented as a function of hue saturation and value.
+
 # Statistical Invariance
 
+What is? 
+
+why is it important how can I use it
+
+Sounds like a way to statistical decouple multiple datasets
+
+
 # Convolutional Networks
+
+Understand the word convolution 
+
+
 
 # Intuition 
 
