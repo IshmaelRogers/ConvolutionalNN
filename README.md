@@ -2,6 +2,7 @@
 Contains code and an explanation of the theories and best practices for constructing Convolutional Neural Networks
 Object detection
 
+
 # Color
 
 Can be represented based on the amount of red, green and blue (RGB) pixels
