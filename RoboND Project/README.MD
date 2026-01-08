@@ -1,8 +1,4 @@
-# Ishmael Rogers
-# Robotics Software Engineer, Infinitely Deep Robotics Group
-# www.idrg.io
-# Udacity Follow Me Project
-# 2018 
+
 
 This report should be written with a technical emphasis (i.e. concrete, supporting information and no 'hand-waiving'). 
 Specifications are met if a reader would be able to replicate what you have done based on what was submitted in the report. 
